@@ -42,7 +42,7 @@
 
 		<EditText
 				a:id="@+id/mpp_xmpp_login_edittext"
-				style="?mpp_form_edittext"/>
+				style="?mpp_form_email_edittext"/>
 
 		<TextView
 				a:id="@+id/mpp_xmpp_password_label"

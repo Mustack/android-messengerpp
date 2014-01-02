@@ -42,6 +42,7 @@
 		<item name="mpp_form_label">@style/mpp_form_label</item>
 		<item name="mpp_form_textview">@style/mpp_form_textview</item>
 		<item name="mpp_form_edittext">@style/mpp_form_edittext</item>
+        <item name="mpp_form_email_edittext">@style/mpp_form_email_edittext</item>
 		<item name="mpp_form_password_edittext">@style/mpp_form_password_edittext</item>
 		<item name="mpp_form_buttons">@style/mpp_form_buttons</item>
 		<item name="mpp_form_button">@style/mpp_form_button</item>
@@ -92,7 +93,8 @@
 		<item name="mpp_form_label">@style/mpp_form_label</item>
 		<item name="mpp_form_textview">@style/mpp_form_textview</item>
 		<item name="mpp_form_edittext">@style/mpp_form_edittext</item>
-		<item name="mpp_form_password_edittext">@style/mpp_form_password_edittext</item>
+        <item name="mpp_form_email_edittext">@style/mpp_form_email_edittext</item>
+        <item name="mpp_form_password_edittext">@style/mpp_form_password_edittext</item>
 		<item name="mpp_form_buttons">@style/mpp_form_buttons</item>
 		<item name="mpp_form_button">@style/mpp_form_button</item>
 		<item name="mpp_form_checkbox">@style/mpp_form_checkbox</item>
@@ -131,7 +133,8 @@
 		<item name="mpp_form_label">@style/mpp_form_label</item>
 		<item name="mpp_form_textview">@style/mpp_form_textview</item>
 		<item name="mpp_form_edittext">@style/mpp_form_edittext</item>
-		<item name="mpp_form_password_edittext">@style/mpp_form_password_edittext</item>
+        <item name="mpp_form_email_edittext">@style/mpp_form_email_edittext</item>
+        <item name="mpp_form_password_edittext">@style/mpp_form_password_edittext</item>
 		<item name="mpp_form_buttons">@style/mpp_form_buttons</item>
 		<item name="mpp_form_button">@style/mpp_form_button</item>
 		<item name="mpp_form_checkbox">@style/mpp_form_checkbox</item>
